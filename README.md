@@ -13,3 +13,9 @@ Lip liner
 Lip gloss
 Blush
 Highlighter
+Eye shadow
+Nailpaint
+Nail remover
+Body Lotion
+Sun screen
+Moisturizer
